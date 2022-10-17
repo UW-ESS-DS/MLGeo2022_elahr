@@ -10,8 +10,11 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   MIT open-source licensing <br>
   line breaks <em>italic text</em><br>
   [links to class webpages](https://github.com/UW-ESS-DS/MLGeo-Autumn22)<br>
-  `code snippets`<br>
-  etc<br>
+  inline `code snippets`<br>
+  or block code such as <br>
+  ```
+  code blocks work too
+  ```
 </ol>
 
 ## Fav Earth sci topics include
@@ -22,7 +25,5 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   Subsurface water column observational methods <br>
 </ol>
 
-```
-code blocks work too
-```
+
 
