@@ -12,9 +12,9 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   [links to class webpages](https://github.com/UW-ESS-DS/MLGeo-Autumn22)<br>
   inline `code snippets`<br>
   or block code such as <br>
-  ```
-  code blocks work too
-  ```
+```
+code blocks work too
+```
 </ol>
 
 ## Fav Earth sci topics include
