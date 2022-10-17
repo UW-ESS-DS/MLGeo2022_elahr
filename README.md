@@ -18,7 +18,7 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
 
 ## How to clone a repository
 <ol>
-  Step 1. <code>git clone RepoUrl</code>
+  Step 1. <code>git clone RepoUrl</code> <br>
   Step 2. <code>relax</code>
 </ol>
 
