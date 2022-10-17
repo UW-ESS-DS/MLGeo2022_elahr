@@ -21,7 +21,7 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   Subsurface water column observational methods <br>
 </ol>
 
-Course info found at: [ESS 590]([https://duckduckgo.com](https://github.com/UW-ESS-DS/MLGeo-Autumn22)).
+Course info found at: ([ESS 590](https://github.com/UW-ESS-DS/MLGeo-Autumn22)).
 
 
 
