@@ -3,14 +3,9 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
 
 # Assignment #1
 
-## Basic formatting demo
-### Wee lil header
+## Licensing for this repository
 <ol>
-  Indented text with <br>
-  MIT open-source licensing <br>
-  line breaks <em>italic text</em><br>
-  <code>code snippets</code>
-  etc
+  I chose MIT licensing for open-source code access and limited liability. <br>
 </ol>
   
 ## Fav Earth sci topics include
@@ -21,7 +16,13 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   Subsurface water column observational methods <br>
 </ol>
 
-Course info found at: ([ESS 590](https://github.com/UW-ESS-DS/MLGeo-Autumn22)).
+## How to clone a repository
+<ol>
+  Step 1. <code>git clone RepoUrl</code>
+  Step 2. <code>relax</code>
+</ol>
+
+### Course info can be found at: [ESS 590](https://github.com/UW-ESS-DS/MLGeo-Autumn22).
 
 
 
