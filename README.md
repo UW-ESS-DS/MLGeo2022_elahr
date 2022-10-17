@@ -10,9 +10,9 @@ Evan Lahr's repository for ESS590, Machine Learning in the Geosciences
   MIT open-source licensing <br>
   line breaks <em>italic text</em><br>
   [links to class webpages](https://github.com/UW-ESS-DS/MLGeo-Autumn22)<br>
+  <code>code snippets</code>
   etc
 </ol>
-`code snippets`
   
 ## Fav Earth sci topics include
 <ol>
